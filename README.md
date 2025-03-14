@@ -16,12 +16,8 @@ Welcome to the **Coffee Website** repository! This is a modern, responsive, and 
 - **JavaScript** ⚡
 
 ## 🎥 Demo
-Check out the video demonstration of the website [here](https://github.com/Sarvesh-Wani/Coffee-Website) (attached in the repository).
+
 https://github.com/user-attachments/assets/b01eeaf2-da50-405a-877a-e10281332857
-Enjoy coding! 🚀
-
-
-
 
 
 
